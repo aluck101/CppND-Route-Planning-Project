@@ -1,0 +1,10 @@
+/home/aluck/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/201.6668.126/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/aluck/CLionProjects/OpenStreetMap/CppND-Route-Planning-Project
+CMake Warning (dev) at cmake/FindCairo.cmake:63 (set):
+  Cannot set "CAIRO_PATH": current scope has no parent.
+Call Stack (most recent call first):
+  CMakeLists.txt:17 (find_package)
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/aluck/CLionProjects/OpenStreetMap/CppND-Route-Planning-Project/cmake-build-debug
